@@ -49,6 +49,13 @@
 		"type":"bitmap"
 	},
 	{
+		"file":"lukecraft:font/citybuild.png",
+		"chars":["Ẉ"],
+		"height":20,
+		"ascent":10,
+		"type":"bitmap"
+	},
+	{
 		"file":"lukecraft:font/current_server.png",
 		"chars":["ḋ"],
 		"height":9,
