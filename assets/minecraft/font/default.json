@@ -51,8 +51,50 @@
 	{
 		"file":"lukecraft:font/citybuild.png",
 		"chars":["Ẉ"],
-		"height":20,
-		"ascent":10,
+		"height":17,
+		"ascent":8,
+		"type":"bitmap"
+	},
+	{
+		"file":"lukecraft:font/skyblock.png",
+		"chars":["ẉ"],
+		"height":17,
+		"ascent":8,
+		"type":"bitmap"
+	},
+	{
+		"file":"lukecraft:font/oneblock.png",
+		"chars":["Ẋ"],
+		"height":17,
+		"ascent":8,
+		"type":"bitmap"
+	},
+	{
+		"file":"lukecraft:font/highup.png",
+		"chars":["ẋ"],
+		"height":17,
+		"ascent":8,
+		"type":"bitmap"
+	},
+	{
+		"file":"lukecraft:font/roleplay.png",
+		"chars":["Ẍ"],
+		"height":17,
+		"ascent":8,
+		"type":"bitmap"
+	},
+	{
+		"file":"lukecraft:font/minigames.png",
+		"chars":["ẍ"],
+		"height":17,
+		"ascent":8,
+		"type":"bitmap"
+	},
+	{
+		"file":"lukecraft:font/commingsoon.png",
+		"chars":["Ẏ"],
+		"height":17,
+		"ascent":8,
 		"type":"bitmap"
 	},
 	{
